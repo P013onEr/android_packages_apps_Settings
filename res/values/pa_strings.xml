@@ -404,5 +404,9 @@
     <string name="battery_percentage_default">Hidden (default)</string>
     <string name="battery_percentage_text_inside">Inside the icon</string>
     <string name="battery_percentage_text_next">Next to the icon</string>
+    
+    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+    <string name="supersu_title">SuperSU</string>
+
 
 </resources>
